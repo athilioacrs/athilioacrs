@@ -7,4 +7,4 @@
 Here are some ideas to get you started:
 - :wave: Hi, I’m @athilioacrs
 - :eyes: I’m interested in Web development
-- 🌱 I’m currently learning Web development, HTML5, CSS3, JavaScript, TypeScript, Kotlin and Ktor
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, TypeScript, Kotlin and Ktor
